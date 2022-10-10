@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman K. Siddiqui</h1>
-<h3 align="center">Aspiring Software Engineer | 2nd year co-op student @ TMU</h3>
+<h3 align="center">Aspiring Software Engineer | 2nd year co-op student @ TMU | Seeking summer 2023 internships </h3>
 
 - 🔭 I’m currently working on **improving my JS skills.**
 
