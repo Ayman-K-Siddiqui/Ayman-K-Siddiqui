@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayman.siddiqui21@gmail.com**
 
-- ⚡ Fun fact **I am obsessed with coding and new technology!!**
+- ⚡ Fun fact: **I am obsessed with coding and new technology!!**
 
 <p align="left">
 </p>
