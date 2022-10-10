@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayman K. Siddiqui</h1>
 <h3 align="center">Aspiring Software Engineer | 2nd year co-op student @ TMU</h3>
 
-- 🔭 I’m currently working on **expanding my JavaScript skills.**
+- 🔭 I’m currently working on **improving my JS skills.**
 
 - 🌱 I’m currently learning **React.js through building projects**
 
@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **I am obsessed with coding and new technology!!**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
