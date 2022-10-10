@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js through building projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayman-K-Siddiqui](https://github.com/Ayman-K-Siddiqui)
-
 - 📫 How to reach me **ayman.siddiqui21@gmail.com**
 
 - ⚡ Fun fact **I am obsessed with coding and new technology!!**
