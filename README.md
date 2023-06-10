@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am obsessed with coding and new technology!!**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/ayman-k-siddiqui/ </h3>
+<h2 align="left">Connect with me: https://www.linkedin.com/in/ayman-k-siddiqui/ </h2>
 <p align="left">
 </p>
 
