@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js through building projects**
 
-- 📫 How to reach me **ayman.siddiqui21@gmail.com**
+- 📫 How to reach me **ayman.siddiqui@torontomu.ca**
 
 - ⚡ Fun fact **I am obsessed with coding and new technology!!**
 
