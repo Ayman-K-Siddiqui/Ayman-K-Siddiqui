@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ayman K. Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Ayman K. Siddiqui</h1>
 <h3 align="center">Aspiring Software Engineer | 3rd year co-op student @ TMU</h3>
 
 - 🔭 I’m currently working on **expanding my JavaScript skills.**
