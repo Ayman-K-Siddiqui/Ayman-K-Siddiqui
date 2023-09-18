@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I love to learn 😁**
   
--   👨‍💻 Outside of coding, I am a great sports fan and cat enthusiast
+-   👨‍💻 Outside of coding, **I am a great sports fan and cat enthusiast**
 
 
 <h3 align="left">Languages and Tools:</h3>
