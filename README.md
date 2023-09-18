@@ -1,6 +1,5 @@
 
 
-- 👨‍💻 Outside of coding, I am a great sports fan and cat enthusiast
 
 <h1 align="center">Hey 👋, I'm Ayman K. Siddiqui</h1>
 <h3 align="center">Aspiring Software Engineer | 3rd year Co-op student @ TMU</h3>
@@ -10,6 +9,8 @@
 - 🌱 I’m learning **React.js**
 
 - ⚡ Fun fact **I love to learn 😁**
+  
+-   👨‍💻 Outside of coding, I am a great sports fan and cat enthusiast
 
 
 <h3 align="left">Languages and Tools:</h3>
