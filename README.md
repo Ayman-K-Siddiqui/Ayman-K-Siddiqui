@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👋, I'm Ayman K. Siddiqui</h1>
 <h3 align="center">Aspiring Software Engineer | 3rd year Co-op student @ TMU</h3>
 
-- I am currently working on making an **E-commerce store project**
+- ✅ I am currently working on making an **E-commerce store project**
 
 - 🌱 I’m learning Full Stack Web Development through the **Odin Project**
 
