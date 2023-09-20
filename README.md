@@ -6,7 +6,7 @@
 
 - I am currently working on making an **E-commerce store project**
 
-- 🌱 I’m learning **React.js**
+- 🌱 I’m learning Full Stack Web Development through the **Odin Project**
 
 - ⚡ Fun fact **I love to learn 😁**
   
