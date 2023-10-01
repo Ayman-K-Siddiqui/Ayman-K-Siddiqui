@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning Full Stack Web Development through the **Odin Project**
 
-- ⚡ Fun fact **I love to watching Coding interviews especially while waiting for the bus 😁**
+- ⚡ Fun fact **I love watching Coding interviews especially while waiting for the bus 😁**
   
 -   👨‍💻 Outside of coding, **I am a great sports fan and cat enthusiast**
 
