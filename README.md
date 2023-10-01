@@ -6,9 +6,9 @@
 
 - ✅ Currently working on making an **Full scale E-commerce store project**
 
-- 🌱 I’m learning Full Stack Web Development through the **Odin Project**
+- 🌱 I’m on the path to become a **Full Stack Web Developer through the Odin Project**
 
-- ⚡ Fun fact **I love watching Coding interviews especially while waiting for the bus 😁**
+- ⚡ Fun fact **I love watching Coding interviews especially while waiting for the bus**
   
 -   👨‍💻 Outside of coding, **I am a great sports fan and cat enthusiast**
 
