@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👋, I'm Ayman K. Siddiqui</h1>
 <h3 align="center">Aspiring Software Engineer | 3rd year Co-op student @ TMU</h3>
 
-- ✅ Currently working on **the LeetCode Blind 75 Questions**
+- ✅ Currently improving my programming skills by **Solving LeetCode Questions**
 
 - 🌱 I’m on the path to become a **Full Stack Web Developer through the Odin Project**
 
